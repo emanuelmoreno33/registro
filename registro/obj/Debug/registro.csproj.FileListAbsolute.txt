@@ -1,0 +1,10 @@
+C:\Users\terre\source\repos\registro\registro\bin\Debug\registro.exe.config
+C:\Users\terre\source\repos\registro\registro\bin\Debug\registro.exe
+C:\Users\terre\source\repos\registro\registro\bin\Debug\registro.pdb
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.csprojAssemblyReference.cache
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.Form1.resources
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.Properties.Resources.resources
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.csproj.GenerateResource.cache
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.csproj.CoreCompileInputs.cache
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.exe
+C:\Users\terre\source\repos\registro\registro\obj\Debug\registro.pdb
